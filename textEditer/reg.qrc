@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/add.png</file>
+        <file>icon/background.png</file>
+        <file>icon/beep.gif</file>
+        <file>icon/beep.png</file>
+        <file>icon/close.png</file>
+        <file>icon/close1.png</file>
+        <file>icon/color.png</file>
+        <file>icon/copy.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/door.png</file>
+        <file>icon/edit_1.png</file>
+        <file>icon/edit_2.png</file>
+        <file>icon/edit_3.png</file>
+        <file>icon/EditDoc.png</file>
+        <file>icon/fan.gif</file>
+        <file>icon/fan.png</file>
+        <file>icon/font.png</file>
+        <file>icon/home.png</file>
+        <file>icon/humi.png</file>
+        <file>icon/led.png</file>
+        <file>icon/light.png</file>
+        <file>icon/light_off.png</file>
+        <file>icon/ligt_on.png</file>
+        <file>icon/LOGO.png</file>
+        <file>icon/new.png</file>
+        <file>icon/open.jpg</file>
+        <file>icon/open.png</file>
+        <file>icon/paste.png</file>
+        <file>icon/play_button_72px_1236468_easyicon.net.ico</file>
+        <file>icon/save.png</file>
+        <file>icon/saveas.png</file>
+        <file>icon/set.png</file>
+        <file>icon/smart_house.ico</file>
+        <file>icon/temp.png</file>
+        <file>icon/timg.gif</file>
+        <file>icon/warning.png</file>
+        <file>icon/cat.png</file>
+        <file>icon/find.png</file>
+    </qresource>
+</RCC>
